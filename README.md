@@ -17,7 +17,9 @@ Courses and Learning:
 
 Skills and Interests: 
 
-I have a basic level of proficiency in Python programming language and I am familiar with testing principles. I am keen on utilizing Python for test automation and creating reliable and efficient automated tests. I have experience working with various third-party service APIs, such as:
+I have a basic level of proficiency in Python programming language and I am familiar with testing principles. I am keen on utilizing Python for test automation and creating reliable and efficient automated tests. 
+
+I have experience working with various third-party service APIs, such as:
 - OpenAI API: I have experience using the OpenAI API, which provides access to powerful natural language processing models like GPT-3. It allows developers to integrate advanced language generation capabilities into their applications.
 - YouTube API: I have utilized the YouTube API, which enables developers to interact with YouTube's features and retrieve data from the platform. This API allows tasks such as searching for videos, retrieving video details, managing playlists, and accessing user information.
 - Telegram API: I have worked with the Telegram API, which allows developers to build chatbots and interact with the Telegram messaging platform. This API provides methods for sending and receiving messages, managing chats and groups, and utilizing various Telegram features. You can find the projects where I utilized these APIs in my GitHub repositories.
