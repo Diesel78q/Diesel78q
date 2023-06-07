@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Daniil
 ==============================================================================================================================
 
-Hello! My name is Daniil, and I'm a student of Political Science who decided to change my career path to programming. Currently, I am self-learning and actively developing my programming skills.
+I'm a student of Political Science who decided to change my career path to programming. Currently, I am self-learning and actively developing my programming skills.
 
 Education: 
 Incomplete higher education at Akademia Ekonomiczna-Humanistyczna in Warsaw, Poland, specializing in Political Science. My background in humanities allows me to approach problem-solving analytically and work effectively with data.
