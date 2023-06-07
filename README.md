@@ -34,9 +34,10 @@ My primary goal is to specialize in test automation. I aim to apply my programmi
 
 Links: 
 
-For more detailed information about my projects and work, please visit my repositories on [GitHub](https://github.com/Diesel78q?tab=repositories).
+For more detailed information about my projects and work, please visit my repositories on [![GitHub Badge](https://img.shields.io/badge/-Diesel78q-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/Diesel78q?tab=repositories).
 
-You can also reach me on [Telegram](https://t.me/Boston22278). Feel free to connect with me on Telegram for any inquiries or further communication.
+You can also reach me on [![Telegram Badge](https://img.shields.io/badge/-Boston22278-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Boston22278) or [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:daniilgoncar7@gmail.com).
+
 
 Languages: 
 
