@@ -29,5 +29,13 @@ Objective and Intention:
 Links:
 - For more detailed information about my projects and work, please visit my repositories on (https://github.com/Diesel78q?tab=repositories).
 
+Languages:
+- Russian (native)
+- Belarusian (native)
+- English (Level A2 certified, but my proficiency has significantly improved since the exam. I have been actively using English in various contexts, including programming and communication with international colleagues and clients.)
+- Polish (Level A2 certified, but my language skills have advanced considerably since the time of the certification. As evidence of my proficiency, I am currently pursuing my education in a Polish-language university program.)
+
+About me:
+I am a dedicated and enthusiastic learner, constantly seeking new challenges and opportunities for growth. With a strong foundation in programming and a passion for automation testing, I am eager to apply my skills and knowledge to contribute to innovative projects. I am a detail-oriented and collaborative team player, always striving for excellence in my work. My diverse language skills allow me to effectively communicate and collaborate with individuals from different cultural backgrounds. I am motivated to continuously improve and expand my expertise in software development and testing.
 
 Thank you for your attention! I am ready to take on exciting tasks and opportunities for collaboration. I am committed to continuous learning and development in programming, and I believe that my skills and passion for technology will make me a valuable team member.
