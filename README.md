@@ -32,8 +32,8 @@ You can also reach me on [![Telegram Badge](https://img.shields.io/badge/-Boston
 🌐 Languages:
 - Russian (native)
 - Belarusian (native)
-- English (Level A2 certified, but my proficiency has significantly improved since the exam. I have been actively using English in various contexts, including programming and communication with international colleagues and clients.)
-- Polish (A2 level certificate, although my language skills far exceed this level. I have been living in Poland for 4 years, starting from a two-month stay when I took the exam.)
+- English (B1)
+- Polish (B2)
 
 👤 About Me:
 I am a dedicated and enthusiastic learner, constantly seeking new challenges and opportunities for growth. With a strong foundation in programming and a passion for automation testing using PyTest, I am eager to apply my skills and knowledge to contribute to innovative projects. I am a detail-oriented and collaborative team player, always striving for excellence in my work. My diverse language skills allow me to effectively communicate and collaborate with individuals from different cultural backgrounds. I am motivated to continuously improve and expand my expertise in software development and testing.
