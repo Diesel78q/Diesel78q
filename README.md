@@ -61,4 +61,3 @@ src="https://img.shields.io/github/followers/Diesel78q?logo=github&style=for-the
   <a href="https://www.github.com/Diesel78q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diesel78q&layout=compact&theme=dark&hide_border=true)
